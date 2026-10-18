@@ -1,5 +1,7 @@
 # PurposePath AI
 
+<p align="center"><img src="assets/purposepath-logo.svg" alt="PurposePath AI compass logo" width="150" /></p>
+
 ### Your future. Your choice.
 
 **Functional, offline-first AI prototype for self-discovery, educational exploration, and career guidance.**
@@ -98,7 +100,7 @@ The intention is to translate findings into evidence-based recommendations for r
 
 ## Logo
 
-The application currently uses a compass icon from **Lucide React** as its in-app brand mark. A standalone, original official logo asset has not yet been published to this repository.
+The application currently uses a compass icon from **Lucide React** as its in-app brand mark. The repository includes a standalone compass-inspired SVG brand asset at `assets/purposepath-logo.svg`.
 
 ## Project direction
 
